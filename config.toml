@@ -211,7 +211,7 @@ googleAnalytics = ""
       ]
 
     [[params.team.members]]
-      #img = "robin.jpg"
+      img = "layik.jpg"
       name = "Layik Hama"
       position = "Front-End Wizard"
       bio = """Without Layik we would have no front end. Period. He single-handedly invented an entirely new system to enable us to flexibly spin up phenomenally powerful front-ends customised to a city's specific needs."""
