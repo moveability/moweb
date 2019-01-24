@@ -279,13 +279,13 @@ googleAnalytics = ""
     # add some custom JS script to finish the implementation.
     # postURL = "https://example.com/mailout/"
 
-    email = "mark.padgham@email.com"
+    # email = "mark.padgham@email.com"
 
     # Success and error message overwrite for async contact form
     #thanks = "Thank you for awesomely contacting us."
     #error = "Message could not be send. Please contact us at mail@example.com instead."
 
-    [params.contact.captcha]
+    # [params.contact.captcha]
       # sitekey = ""
 
     # 'warning' defines error messages for invalid inputs
