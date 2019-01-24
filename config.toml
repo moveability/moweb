@@ -202,9 +202,9 @@ googleAnalytics = ""
     [[params.team.members]]
       img = "robin.jpg"
       name = "Robin Lovelace"
-      position = "Chief Strategist"
+      position = "Academic Lead"
       livesIn = "[Leeds, U.K.](#some-maps-url)"
-      bio = "Robin has successfully led numerous high-profile active transport projects, including the UK's [Propensity to Cycle Tool](https://pct.bike), is a co-author of [several](https://csgillespie.github.io/efficientR/) [books](https://geocompr.robinlovelace.net/), and assures that our work is always academically sound."
+      bio = "Robin holds a University Academic Fellowship (UAF) in Transport and Big Data in the Institute for Transport Studies ([ITS](https://environment.leeds.ac.uk/transport/staff/953/dr-robin-lovelace)) and Leeds Institute for Data Analytics (LIDA). Robin has developed high impact transport applications, including in his role as Lead Developer on the UK's [Propensity to Cycle Tool](https://pct.bike) and Principal Investigator of the Cycling Infrastructure Prioritisation Toolkit ([CyIPT](https://www.cyipt.bike/)). Robin is author of many [publications](https://scholar.google.co.uk/citations?user=xDJHVCAAAAAJ) on geographic data science and transport modelling, including the open source [book](https://geocompr.robinlovelace.net/) Geocomputation with R."
       social = [
         ["fa-github", "https://github.com/robinlovelace"],
         ["fa-twitter", "https://twitter.com/robinlovelace"],
