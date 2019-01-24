@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://moveability.city/"
+baseurl = "https://moveability.github.io/"
 languageCode = "en-gb"
 title = "moveability"
 theme = "hugo-agency-theme"
