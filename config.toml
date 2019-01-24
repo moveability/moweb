@@ -218,7 +218,8 @@ googleAnalytics = ""
     [[params.team.members]]
       img = "layik.jpg"
       name = "Layik Hama"
-      position = "Front-End Wizard"
+      position = "Research Engineer"
+      livesIn = "[Leeds, U.K.](#some-maps-url)"
       bio = """Without Layik we would have no front end. Period. He single-handedly invented an entirely new system to enable us to flexibly spin up phenomenally powerful front-ends customised to a city's specific needs."""
       social = [
         ["fa-github", "https://github.com/layik"],
