@@ -178,13 +178,9 @@ googleAnalytics = ""
       position = "Lead Developer"
       #reportsTo = "CTO"
       livesIn = "[Münster, Germany](#some-maps-url)"
-      scope = [
-        "Developer of moveability backend",
-        "Developer of R packages [`osmdata`](https://github.com/ropensci/osmdata)",
-        "[`bikedata`](https://github.com/ropensci/bikedata), [`dodgr`](https://github.com/atfutures/dodgr), and lots more."
-      ]
+      scope = [ ]
       # For bio markdown and even multiline strings are available.
-      bio = """Mark leads the moveability project, drawing on years of experience developing software and analytic tools for urban analyses. He and Robin have positioned themselves as global leaders in open-source transport planning software."""
+      bio = """Mark leads the moveability project, drawing on years of experience developing analytic tools and software for urban analyses. He and Robin have positioned themselves as global leaders in open-source transport planning software. He is the developer of the R packages [`osmdata`](https://github.com/ropensci/osmdata) [`bikedata`](https://github.com/ropensci/bikedata), [`dodgr`](https://github.com/atfutures/dodgr), and lots more."""
       social = [
         ["fa-github", "https://github.com/mpadge"],
         ["fa-twitter", "https://twitter.com/bikesRdata"],
@@ -193,7 +189,7 @@ googleAnalytics = ""
     [[params.team.members]]
       img = "thomas.jpg"
       name = "Thomas Kluth"
-      position = "Cognitive Data Scientist"
+      position = "Data Scientist"
       livesIn = "[Münster, Germany](#some-maps-url)"
       bio = """During [his Ph.D. in linguistics](https://www.techfak.de/~tkluth), Thomas investigated human cognition using computational modeling. After four years of basic research in cognitive science, he is now focusing on enabling a transformation to a more sustainable world. As a computer scientist and cyclist, he strongly believes in the power of open data, open source, and local communities to solve the world's most pressing issues."""
       social = [
@@ -331,7 +327,7 @@ googleAnalytics = ""
 
     [[params.footer.social]]
       icon = "fa-twitter"
-      link = "https://github.com/moveablecity"
+      link = "https://twitter.com/moveablecity"
       title = "Twitter"
 
     [[params.footer.quicklinks]]
