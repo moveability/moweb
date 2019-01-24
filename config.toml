@@ -191,12 +191,17 @@ googleAnalytics = ""
       ]
 
     [[params.team.members]]
-      #img = "2.jpg"
+      img = "thomas.jpg"
       name = "Thomas Kluth"
-      position = "Front-end Developer"
+      position = "Cognitive Data Scientist"
       livesIn = "[Münster, Germany](#some-maps-url)"
+      bio = """During [his Ph.D. in linguistics](https://www.techfak.de/~tkluth), Thomas investigated human cognition using computational modeling. After four years of basic research in cognitive science, he is now focusing on enabling a transformation to a more sustainable world. As a computer scientist and cyclist, he strongly believes in the power of open data, open source, and local communities to solve the world's most pressing issues."""
       social = [
         ["fa-github", "https://github.com/silberzwiebel"],
+    	["fa-twitter", "https://twitter.com/krtfflslt"],
+        # the next two icons need an upgrade of font awesome; or we could switch to fork awesome: https://forkawesome.github.io/Fork-Awesome/whats-new/
+        # ["fa-mastodon", "http://social.wiuwiu.de/@kartoffelsalat"],
+        # ["fa-diaspora", "http://diasp.eu/u/kartoffelsalat"]
       ]
 
     [[params.team.members]]
