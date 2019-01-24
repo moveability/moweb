@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://moveability.github.io/"
+baseurl = "https://moveability.city/"
 languageCode = "en-gb"
 title = "moveability"
 theme = "hugo-agency-theme"
@@ -67,7 +67,7 @@ googleAnalytics = ""
 
     # postpended links
     [[menu.postpend]]
-      url = "#"
+      url = "maps/ms/index.html"
       name = "maps"
       weight = 10
 
