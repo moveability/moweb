@@ -46,7 +46,7 @@ googleAnalytics = ""
 
   # Navigation
   [params.navigation]
-    brand = "moveability"
+    brand = "moveability.city"
     # Optional logo as brand stored in img/
     #logo = "logo.svg"
     services = "Analyses"
