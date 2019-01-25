@@ -32,8 +32,8 @@ googleAnalytics = ""
 
   # 404 error customization
   [params.error404]
-    heading = "Page couldn't be found"
-    text = "Please visit [this page](/)"
+    heading = "[This'll take you home](/)"
+    #text = "[this'll take you home](/)"
 
   # Optional piwik tracking
   #[params.analytics.piwik]
