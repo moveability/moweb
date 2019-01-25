@@ -67,7 +67,7 @@ googleAnalytics = ""
 
     # postpended links
     [[menu.postpend]]
-      url = "maps/ms/index.html"
+      url = "maps/index.html"
       name = "maps"
       weight = 10
 
