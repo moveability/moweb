@@ -48,7 +48,7 @@
 
                 {{ with $contact.form.phone }}
                 <div class="form-group">
-                  <input class="form-control" id="phone" required="required" type="number" name="phone" placeholder="{{ with .text }}{{ . | markdownify }}{{ end }}" data-validation-error-msg="{{ with .warning }}{{ . | markdownify }}{{ end }}"></textarea>
+                  <input class="form-control" id="phone" type="number" name="phone" placeholder="{{ with .text }}{{ . | markdownify }}{{ end }}" data-validation-error-msg="{{ with .warning }}{{ . | markdownify }}{{ end }}">
                   <p class="help-block text-danger"></p>
                 </div>
                 {{ end }}
@@ -71,9 +71,6 @@
                   {{ else }}
                     Thank you for contacting us.
                   {{ end }}
-                </div>
-                <div class="captcha-error text-danger" id="captcha-error">
-                  Message is not sendable due to captcha not loadable. Please contact us at {{ (or $contact.email .Site.Params.email) -}}.
                 </div>
                 <div class="text-danger" id="error" style="display:none;">
                   {{ with $contact.error }}
@@ -98,9 +95,7 @@
                     <span class="filler"></span>
                   </div>
                 {{ else }}
-                  <button type="submit" value="Submit" class="btn btn-xl">
-                    {{ print $contact.buttonText }}
-                  </button>
+                  <input type="submit" value="{{ $contact.buttonText }}" class="btn btn-xl" />
                 {{ end }}
               </div>
             </div>

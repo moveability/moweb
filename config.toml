@@ -275,7 +275,7 @@ googleAnalytics = ""
     # add some custom JS script to finish the implementation.
     # postURL = "https://example.com/mailout/"
 
-    # email = "mark.padgham@email.com"
+    email = "mark.padgham@email.com"
 
     # Success and error message overwrite for async contact form
     # thanks = "Thank you for awesomely contacting us."
@@ -294,7 +294,7 @@ googleAnalytics = ""
       warning = "Please enter your email address."
 
     [params.contact.form.phone]
-      text = "Your Phone *"
+      text = "Your Phone"
       warning = "Please enter your phone number."
 
     [params.contact.form.message]
