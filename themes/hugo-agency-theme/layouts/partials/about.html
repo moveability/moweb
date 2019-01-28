@@ -29,11 +29,13 @@
             </li>
           {{ end }}
 
-          <li class="timeline-inverted">
-            <div class="timeline-image">
-              <h4>{{ with .Site.Params.about.endpoint }}{{ . | markdownify }}{{ end }}</h4>
-            </div>
-          </li>
+						<li class="timeline-inverted">
+							<a href="#contact">
+								<div class="timeline-image">
+									<h4>{{ with .Site.Params.about.endpoint }}{{ . | markdownify }}{{ end }}</h4>
+								</div>
+							</a>
+						</li>
         </ul>
       </div>
     </div>
