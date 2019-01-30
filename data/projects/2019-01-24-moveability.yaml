@@ -1,0 +1,28 @@
+modalID: 2
+title: Moveability Analyses
+subtitle: How we calculate movability
+date: 2018-01-24
+img: moveability-ms.png
+preview: moveability-ms-small.png
+#client: Start Bootstrap
+clientLink: "#"
+category: what
+description: "Moveability quantifies the extent to which urban structure
+accommodates and encourages all forms of active moveability. We quantify
+moveability at every single intersection within a city's street network,
+starting with the total lengths of moveable streets or ways near that point. For
+example, 1km of street with four lanes dedicated to automobiles offers less
+walkable length than 1km of separated walking path, and 1km of walking path
+offers less cyclable length than 1km of dedicated cycleway. Moveability is also
+influenced by the amount of surrounding green space, as well as \"blue space\"
+in the form of water bodies.  The above image shows an example of the
+walkability of our home city of [Münster,
+Germany](https://moveability.city/maps/ms).<br><br>Beyond these static views of
+current moveability, we also generate layers of \"potential\" moveability
+reflecting spatial mismatches between demography and infrastructure. This
+potential for moveability need not be directly related to moveability itself,
+and the ability to identify areas of high potential yet low actual moveability
+translates into a key tool for planning infrastructure changes to enhance
+moveability. It immediately enables cities to identify the \"easy targets\"
+where the gains are likely to be the greatest."
+

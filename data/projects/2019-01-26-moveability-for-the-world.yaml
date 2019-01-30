@@ -1,0 +1,19 @@
+modalID: 4
+title: Moveability for the World
+subtitle: Moveability beyond the Global North
+date: 2018-01-26
+img: delhi.jpg
+preview: delhi.jpg
+#client: Start Bootstrap
+clientLink: "#"
+category: where
+description: "Most analyses of moveability focus on the relatively data-rich
+cities of the Global North. In contrast, we strive to ensure our ability to
+develop accurate models for cities beyond this region, and particularly in
+cities which may lack the kinds of data generally presumed to be necessary for
+detailed analyses of moveability. To do so, we utilise several global-scale data
+sets notably including demographic data. We can even calculate moveability for
+cities which have no local data at all, by down-scaling from global-scale data
+to provide initial estimates before refining these through calibration against
+equivalent data sets."
+

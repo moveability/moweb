@@ -1,0 +1,16 @@
+modalID: 5
+title: Data Quality
+subtitle: The Accuracy of Our Moveability Estimates
+date: 2018-01-27
+img: moveability-ms.png
+preview: roundicons-preview.png
+#client: Start Bootstrap
+clientLink: "#"
+category: accuracy
+description: "No two cities have the same data, and not all cities have the same
+quality of data. We know what data we need to accurately calculate our various
+measures of moveability. Even more importantly, we know how to calculate the
+accuracy of those measures. We therefore provide a single measure for each city
+of the quality of available data. This measure is a simple percentage (0 to
+100) quantifying the likely accuracy of the moveability statistics."
+

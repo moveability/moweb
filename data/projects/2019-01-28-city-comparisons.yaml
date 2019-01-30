@@ -1,0 +1,32 @@
+modalID: 6
+title: Moveability Comparisons
+subtitle: Different cities differ in different ways
+date: 2018-01-28
+img: moveability-ms.png
+preview: roundicons-preview.png
+#client: Start Bootstrap
+clientLink: "#"
+category: diversity
+description: "Most analyses of moveability are restricted to a single measure
+(such as [walkability](http://walkscore.com) or
+[bikeability](https://copenhagenizeindex.eu)), in each case reducing a city to a
+single number. Not only do we differ through offering interactive portals to
+view the spatial differences in moveability across a city, but we offer a number
+of ways of quantifying moveability. Beyond statistics for individual modes (such
+as walking or cycling), we also quantify the degree of unmet *potential* for
+moveability throughout a city. A city might have a relatively low actual
+moveability, yet a very high unmet potential. It is likely to be relatively easy
+for such a city to transform itself to enable greater active moveability. In
+contrast, a city may have very high moveability, yet very little potential for
+future expansion. Increasing active moveability in such a city will likely be
+more difficult. Our ability to combine static snapshots of current moveability
+with layers of potential moveability translates into a unique ability to compare
+cities in ways which reflect their otherwise irreconcilable differences. Some
+cities may never be able to construct connected systems of \"bicycle
+superhighways\", yet they may nevertheless have large potential cycleability,
+and so may respond almost as well through to much simpler changes to street
+properties.<br><br>We are working towards a base dataset of sufficient cities to
+enable our first global comparison of moveability. Cities will be scored both on
+current states and future potential, and our preliminary analyses suggest
+resultant rankings will be quite different from what might be expected ..."
+

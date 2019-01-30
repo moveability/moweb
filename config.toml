@@ -49,8 +49,8 @@ googleAnalytics = ""
     brand = "moveability.city"
     # Optional logo as brand stored in img/
     #logo = "logo.svg"
-    services = "Analyses"
-    portfolio = "Services"
+    services = "Overview"
+    portfolio = "Moveability"
     about = "About"
     team = "Team"
     contact = "Contact"
@@ -84,8 +84,8 @@ googleAnalytics = ""
   # Services section
   [params.services]
     enable = true
-    title = "Analyses"
-    subtitle = "Our analyses of urban moveability."
+    title = "Overview"
+    subtitle = "Our data sources and principles."
 
     [[params.services.row]]
 
@@ -103,7 +103,7 @@ googleAnalytics = ""
 
     [[params.services.row.list]]
       icon = "fa-laptop"
-      title = "Web"
+      title = "Web-based Platforms"
       description = "Instead of bulky, stand-alone platforms, our platforms are all web-based, enabling us to develop highly customised, flexible frameworks that are uniquely tailored to individual applications."
       url = "#"
 
@@ -114,50 +114,51 @@ googleAnalytics = ""
     # at 'exampleSite/data/projects'. Copy the 'projects' folder into the 'data' directory
     # at the root of this Hugo site.
     # For more informtion take a look at the README.
-    title = "Services"
-    subtitle = "(watch this space)"
+    title = "Moveability"
+    subtitle = "So what is moveability?"
+
 
     [params.portfolio.modal]
-      client = "Client"
+      #client = "Client"
       date = "Date"
       category = "Category"
-      buttonText = "Close project"
+      buttonText = "Close Component"
 
 
     # About section
-  [params.about]
-    enable = true
-    title = "About"
-    subtitle = "What is moveability?"
-    #endpoint = "Be part<br>of our<br>story!"
-    endpoint = "Get your<br>city<br>moving!"
+  #[params.about]
+  #  enable = true
+  #  title = "About"
+  #  subtitle = "What is moveability?"
+  #  #endpoint = "Be part<br>of our<br>story!"
+  #  endpoint = "Get your<br>city<br>moving!"
 
     # The events will be listed from the top to the bottom.
     # All images are stored under 'static/img/about'.
     # Replace them with your own.
-    [[params.about.events]]
-      img = "people.jpg"
-      date = "Active Moveability"
-      title = "Moveability is anything that involves you actively moving yourself."
-      description = "The primary form of active moveability is and always will be walking. Equal to this in many part of the world is cycling. Yet there are no limits on definitions, and moveability is likely to greatly change in the future, as we invent new forms of individual and collective transport which enhance active moveability."
+    #[[params.about.events]]
+    #  img = "people.jpg"
+    #  date = "Active Moveability"
+    #  title = "Moveability is anything that involves you actively moving yourself."
+    #  description = "The primary form of active moveability is and always will be walking. Equal to this in many part of the world is cycling. Yet there are no limits on definitions, and moveability is likely to greatly change in the future, as we invent new forms of individual and collective transport which enhance active moveability."
 
-    [[params.about.events]]
-      img = "bldg.jpg"
-      date = "Urban Moveability"
-      title = "Our focus in on cities"
-      description = "While moveability has no scale, we ourselves choose to focus on individual cities."
+    #[[params.about.events]]
+    #  img = "bldg.jpg"
+    #  date = "Urban Moveability"
+    #  title = "Our focus in on cities"
+    #  description = "While moveability has no scale, we ourselves choose to focus on individual cities."
 
-    [[params.about.events]]
-      img = "blue.jpg"
-      date = "Modes of Moveability"
-      title = "Walking, cycling, and beyond"
-      description = "All analyses consider walking and cycling, both as moveability in its own right, and in conjunction with public transport usage. Additional modes of moveability are also considered, and are likely to become increasing important as we invent new ways to actively move."
+    #[[params.about.events]]
+    #  img = "blue.jpg"
+    #  date = "Modes of Moveability"
+    #  title = "Walking, cycling, and beyond"
+    #  description = "All analyses consider walking and cycling, both as moveability in its own right, and in conjunction with public transport usage. Additional modes of moveability are also considered, and are likely to become increasing important as we invent new ways to actively move."
 
-    [[params.about.events]]
-      img = "ghent.jpg"
-      date = "Urban Analyses"
-      title = "Moveability of a city"
-      description = "Our own open source software uses open data to analyse moveability and to deliver the results in an integrated, online platform able to be customised to an individual city's desires, needs, and visions of its own future."
+    #[[params.about.events]]
+    #  img = "ghent.jpg"
+    #  date = "Urban Analyses"
+    #  title = "Moveability of a city"
+    #  description = "Our own open source software uses open data to analyse moveability and to deliver the results in an integrated, online platform able to be customised to an individual city's desires, needs, and visions of its own future."
 
 
   # Team section
