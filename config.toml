@@ -161,68 +161,6 @@ googleAnalytics = ""
     #  description = "Our own open source software uses open data to analyse moveability and to deliver the results in an integrated, online platform able to be customised to an individual city's desires, needs, and visions of its own future."
 
 
-  # Team section
-  [params.team]
-    enable = true
-    # Possibility to center items
-    #center = true
-    title = "Our team"
-    subtitle = "Some of the amazing people we currently have the honour of working with."
-    description = "We are at the beginning of a long and exciting journey. Please contact us if you're interested in coming along for the ride!"
-
-    # All team member's pictures are stored under 'static/img/team'.
-    # Replace them with your own too.
-    # Suggestion: Image size should be at least 360px*360px or the alignment might be affected.
-    [[params.team.members]]
-      img = "mpadge.jpg"
-      name = "Mark Padgham"
-      position = "Lead Developer"
-      #reportsTo = "CTO"
-      livesIn = "[Münster, Germany](#some-maps-url)"
-      scope = [ ]
-      # For bio markdown and even multiline strings are available.
-      bio = """Mark leads the moveability project, drawing on years of experience developing analytic tools and software for urban analyses. He and Robin have positioned themselves as global leaders in open-source transport planning software. He is the developer of the R packages [`osmdata`](https://github.com/ropensci/osmdata) [`bikedata`](https://github.com/ropensci/bikedata), [`dodgr`](https://github.com/atfutures/dodgr), and lots more."""
-      social = [
-        ["fa-github", "https://github.com/mpadge"],
-        ["fa-twitter", "https://twitter.com/bikesRdata"],
-      ]
-
-    [[params.team.members]]
-      img = "thomas.jpg"
-      name = "Thomas Kluth"
-      position = "Data Scientist"
-      livesIn = "[Münster, Germany](#some-maps-url)"
-      bio = """During [his Ph.D. in linguistics](https://www.techfak.de/~tkluth), Thomas investigated human cognition using computational modeling. After four years of basic research in cognitive science, he is now focusing on enabling a transformation to a more sustainable world. As a computer scientist and cyclist, he strongly believes in the power of open data, open source, and local communities to solve the world's most pressing issues."""
-      social = [
-        ["fa-github", "https://github.com/silberzwiebel"],
-    	["fa-twitter", "https://twitter.com/krtfflslt"],
-        # the next two icons need an upgrade of font awesome; or we could switch to fork awesome: https://forkawesome.github.io/Fork-Awesome/whats-new/
-        # ["fa-mastodon", "http://social.wiuwiu.de/@kartoffelsalat"],
-        # ["fa-diaspora", "http://diasp.eu/u/kartoffelsalat"]
-      ]
-
-    [[params.team.members]]
-      img = "robin.jpg"
-      name = "Robin Lovelace"
-      position = "Academic Lead"
-      livesIn = "[Leeds, U.K.](#some-maps-url)"
-      bio = "Robin holds a University Academic Fellowship (UAF) in Transport and Big Data in the Institute for Transport Studies ([ITS](https://environment.leeds.ac.uk/transport/staff/953/dr-robin-lovelace)) and Leeds Institute for Data Analytics (LIDA). Robin has developed high impact transport applications, including in his role as Lead Developer on the UK's [Propensity to Cycle Tool](https://pct.bike) and Principal Investigator of the Cycling Infrastructure Prioritisation Toolkit ([CyIPT](https://www.cyipt.bike/)). Robin is author of many [publications](https://scholar.google.co.uk/citations?user=xDJHVCAAAAAJ) on geographic data science and transport modelling, including the open source [book](https://geocompr.robinlovelace.net/) Geocomputation with R."
-      social = [
-        ["fa-github", "https://github.com/robinlovelace"],
-        ["fa-twitter", "https://twitter.com/robinlovelace"],
-      ]
-
-    [[params.team.members]]
-      img = "layik.jpg"
-      name = "Layik Hama"
-      position = "Research Engineer"
-      livesIn = "[Leeds, U.K.](#some-maps-url)"
-      bio = """Without Layik we would have no front end. Period. He single-handedly invented an entirely new system to enable us to flexibly spin up phenomenally powerful front-ends customised to a city's specific needs."""
-      social = [
-        ["fa-github", "https://github.com/layik"],
-        ["fa-twitter", "https://twitter.com/layik"],
-      ]
-
   # Client section
     [params.clients_list]
       enable = true
