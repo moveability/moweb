@@ -52,7 +52,6 @@ googleAnalytics = ""
     services = "Overview"
     portfolio = "Moveability"
     about = "About"
-    team = "Team"
     contact = "Contact"
 
     # Add custom links. Those can be pre- and postpended to the default menu above.
